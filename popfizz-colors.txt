@@ -1,0 +1,8 @@
+#E6DB74	geel
+#9061CA	paars
+#AE81FF lichtpaars
+#7F99E1 blauw
+#21BBB4 groen
+#66D9EF lichtgroen
+#1E1E1E zwart
+#99C9F0	blauw

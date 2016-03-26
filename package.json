@@ -1,0 +1,22 @@
+{
+    "name": "theme-popfizz",
+    "displayName": "Popfizz Visual Studio Code Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "mb2o",
+    "engines": {
+        "vscode": "^0.10.10"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Popfizz",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Popfizz.tmTheme"
+            }
+        ]
+    }
+}
